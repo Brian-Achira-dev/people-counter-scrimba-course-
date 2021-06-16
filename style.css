@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://static.photocdn.pt/images/articles/2020/12/31/best_camera_settings_for_snowy_landscapes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bolder;
+    font-size: x-large;
+
+}
+.container{
+    text-align: center;
+}
+
+#counter-el{
+    font-size: 70px;
+}
+
+button{
+    border: none;
+    border-radius: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+#increase-btn{
+    background-color: rgba(19, 241, 19, 0.829);
+}
+
+#decrease-btn{
+    background-color: rgba(255, 0, 0, 0.61);
+    margin-top: 25px;
+}
