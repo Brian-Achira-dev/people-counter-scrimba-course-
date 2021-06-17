@@ -32,3 +32,16 @@ button{
     background-color: rgba(255, 0, 0, 0.61);
     margin-top: 25px;
 }
+
+footer{
+    margin-top: 150px;
+    background-color: rgba(58, 58, 56, 0.575);
+    height: 27vh;
+    position: relative;
+    
+}
+
+#save-btn{
+    background-color: cyan;
+    margin-top: 25px;
+}
